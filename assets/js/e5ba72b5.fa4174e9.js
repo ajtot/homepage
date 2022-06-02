@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[9983],{6444:function(a){a.exports=JSON.parse('{"allTagsPath":"/animalia-doc/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/animalia-doc/blog/tags/hello"}')}}]);
